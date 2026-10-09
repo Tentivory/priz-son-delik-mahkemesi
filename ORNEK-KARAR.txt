@@ -1,0 +1,2 @@
+Bu dosya çalıştırma çıktısı değil, mahkemenin antetli boşluğudur.
+Asıl hüküm: python3 mahkeme.py
