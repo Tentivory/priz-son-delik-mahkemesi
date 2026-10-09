@@ -11,10 +11,11 @@ from dataclasses import dataclass
 
 SIGORTA_WATT = 1800
 GIZLI = (
-    "U29uIGRlbGlrIGhlciB6YW1hbiB6YXRlbiBvxJ9hbCBrYWxtxLF
-    "zLCBjaHVua2kgZ8O8biBiYcWfY2lzxLFuZFx1MDBlNCB5YXph
-    "bsSxci4gTXVoYWxlZmV0IHV6YXRtYSBrYWJsb3N1IGlzdGVy
-    "LCBpa3RpZGFyIGlzZSBmaWxpxZ8gaW5kaXJtZXouaSBCYXNraQ=="
+    "U29uIGRlbGlrIGhlciB6YW1hbiB6YXRlbiBvcmFkYSBrYWxhbsSxbmTEsXIsIMOn"
+    "w7xua8O8IGfDvG4gYmHFn8SxbmRhIGZpxZ8gb25kYWTEsXIuIE11aGFsZWZldC"
+    "B1emF0bWEga2FibG9zdSBpc3RlciwgeWVybGXFn2lrIG9sYW4gaXNlIGRlbGnE"
+    "n2kgbcO8bGsgc2F5YXIuIFBhcnRpIHRhYmVsYXPEsSB5b2ssIGFsxLHFn2th"
+    "bmzEsWsgdmFyLg=="
 )
 
 
